@@ -4,7 +4,7 @@ server:
 eureka:
   client:
     serviceUrl:
-      defaultZone: https://apps-gateway.herokuapp.com/eureka
+      defaultZone: https://apps-discovery-server.herokuapp.com/eureka
 
 spring:
   application:
